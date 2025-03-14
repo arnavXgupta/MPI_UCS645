@@ -1,7 +1,0 @@
-CUDA implementation with Fake News Detection model:-
-
-https://chatgpt.com/c/67931e4a-03f4-8004-851b-9dcc320983c8
-
-https://github.com/harrism/numba_examples/blob/master/mandelbrot_numba.ipynb
-
-https://www.tutorialspoint.com/cuda/cuda_introduction.htm
