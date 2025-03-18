@@ -23,6 +23,3 @@ example
 ```bash
 mpiexec -n 6 your_file.exe
 ```
-
-## Assignment 2
-
