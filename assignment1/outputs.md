@@ -1,5 +1,5 @@
 ### MPI Trial ( Hello World )
-![alt text](image.png)
+![alt text](./outputs/image.png)
 
 ### Send Recieve
-![alt text](image-1.png)
+![alt text](./outputs/image-1.png)
